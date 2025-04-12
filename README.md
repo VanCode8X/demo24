@@ -1,2 +1,1 @@
-# demo24
-demo24
+Hello GIT Community, we're new dev in the world
